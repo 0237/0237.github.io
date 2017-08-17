@@ -1,9 +1,6 @@
-> Github Pages 测试页
-
-<center>
-###王尧小傻子
-</center>
-<center>
-Copyright © 2017 MYoung<br>
-All Rights Reserved
-</center>
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+---
