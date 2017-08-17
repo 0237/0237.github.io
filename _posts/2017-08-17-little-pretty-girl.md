@@ -2,7 +2,8 @@
 layout: post
 title:  "王尧小仙女"
 date:   2017-08-17
-categories: jekyll test
+published: false
+category: jekylltest
 ---
 > Github Pages 测试页
 
